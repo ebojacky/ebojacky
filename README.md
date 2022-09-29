@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ebojacky
 - 👀 I’m interested in python, javascript, java, c#, html, ccs
-- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on python projects
 - 📫 How to reach me ...ebojacky@gmail.com
 
